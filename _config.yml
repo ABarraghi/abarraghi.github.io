@@ -22,14 +22,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "arman_formalpic.jpg"
   name             : "Arman Barraghi Zadeh"
   pronouns         : # example: "she/her"  
   bio              : "First year research-based MS ECE student, specializing in Computer Architecture."
   location         : "Austin, TX"
-  employer         : "The University of Texas at Austin"
+  employer         : "University of Texas at Austin"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "abarraghi@gmail.com" 
 
   # Academic websites
   academia         : # URL
