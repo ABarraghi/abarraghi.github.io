@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+---
 
 Education
 ======
@@ -53,7 +55,7 @@ Presentations
   
 Leadership/Service
 ======
-* Social Innovation Challenge, April 2024
+* Social Innovation Challenge, March 2024
   * Selected along with 5 other students to represent Juniata College in the Entrepreneurship Leadership Council’s annual Social Innovation Challenge   
   * Lead a team of 4 to present “Nourish the Neighborhood”, an organizational-based approach to mitigate food insecurity across college campuses 
   * Featured on the City of Huntingdon [Newspaper](https://www.huntingdondailynews.com/news/local/juniata-students-compete-in-social-innovation-challenge/article_8b616d75-59f4-5d91-81ff-3cdfb150c36f.html)
