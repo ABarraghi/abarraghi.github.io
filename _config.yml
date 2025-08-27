@@ -13,9 +13,9 @@ title                    : "ePortfolio"
 title_separator          : "-"
 name                     : &name "Arman Barraghi Zadeh"
 description              : &description "Arman's ePortfolio"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://abarraghi.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "ABarraghi/abarraghi.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Arman Barraghi Zadeh"
   pronouns         : # example: "she/her"  
-  bio              : "First year research-based MS ECE student, specializing in Computer Architecture."
+  bio              : "1st year ECE Grad Student"
   location         : "Austin, TX"
   employer         : "University of Texas at Austin"
   uri              : # URL
