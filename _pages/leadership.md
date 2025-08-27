@@ -18,6 +18,8 @@ I was chosen along with only 5 other students from the entirety of Juniata Colle
   <img src="/images/challenge.jpg" />
 </p>
 
+---
+
 ## HackPSU Spring 2024
 ### March 16 - 17, 2024
 ### State College, PA
