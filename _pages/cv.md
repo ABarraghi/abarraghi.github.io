@@ -76,3 +76,6 @@ Honors and Awards
 * Juniata Scholarship (Highest Merit-Based Scholarship), Juniata College, August 2020 - May 2025
 * The Tutoring Award, Juniata College, May 2025
 
+
+[Download my CV PDF here](/files/Arman_BarraghiZadeh_CV.pdf)
+
